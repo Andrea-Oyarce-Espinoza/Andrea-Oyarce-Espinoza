@@ -1,41 +1,38 @@
-# ¡Hola! Soy Andrea Oyarce 👋
+# ¡Hola! Soy Andrea Oyarce Espinoza 👋
 
-### Web Developer & SEO Specialist | WordPress Expert
-Especializada en optimización técnica, experiencia de usuario (UX) y mantenimiento de ecosistemas digitales. Con base en Chile y abierta a proyectos remotos globales. 🌍
+Especialista en Desarrollo Web, Optimización y Técnico en Programación y Análisis de Sistemas. Cuento con más de 4 años de trayectoria en agencias digitales y entornos institucionales, enfocada en la creación, rescate y optimización de ecosistemas basados en WordPress, performance web y SEO técnico.
 
----
+## 🛠️ Mi Tech Stack
 
-### 🛠️ Tecnologías y Herramientas
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-Technical-green?style=for-the-badge)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- **Frontend & Frameworks:** JavaScript (ES6+), React, HTML5, CSS3 Avanzado, Tailwind CSS v4.
+- **Backend & CMS:** PHP, Laravel, WordPress (Mantenimiento Avanzado, Hardening y Base de Datos SQL), Shopify, Jumpseller.
+- **Herramientas & Cloud:** Vite, Node.js, NPM, Figma, Git, GitHub, Netlify, Vercel.
 
 ---
 
-### 📈 Experiencia Destacada
+## 🚀 Proyectos Destacados
 
-#### **Cafestore.cl (Feb 2021 - Feb 2024)**
-* **Rol:** Mantenimiento Web y Estrategia SEO/UX.
-* **Logros:** Gestión de contenido quincenal, optimización de visualización y colaboración estrecha con equipos de desarrollo para mejoras continuas en la plataforma eCommerce.
+### 🛡️ [Dashboard Web de Ciberseguridad & SPA Router](https://cyberdashboardtailwind.netlify.app/)
+* **Descripción:** Aplicación de una Sola Página (SPA) interactiva diseñada para la monitorización de servidores web y mitigación de amenazas en tiempo real.
+* **Características Clave:**
+  - Enrutamiento dinámico en el cliente mediante manipulación selectiva del DOM.
+  - Simulación asíncrona de escaneo de vulnerabilidades y delegación de eventos complejos para bloqueo de IPs (Lista Negra).
+* **Stack:** JavaScript Vanila, Tailwind CSS v4, Vite, Netlify CI/CD.
 
-#### **Kanco.cl**
-* Desarrollo y diseño de sitio corporativo enfocado en rendimiento y navegación fluida.
-
----
-
-### 🌱 Intereses & Enfoque
-- 🌲 Apasionada por el **SEO Técnico** y la arquitectura de la información.
-- 🌸 Enfocada en crear interfaces que unan la estética con la funcionalidad.
-- 🚀 Buscando mi próximo desafío en desarrollo web remoto.
+### 💾 [Rescate Técnico e Infraestructura - Peumayen.cl](https://github.com/Andrea-Oyarce-Espinoza/)
+* **Descripción:** Recuperación y auditoría de un sitio web empresarial tras un fallo crítico fatal en producción.
+* **Características Clave:** Optimización profunda de bases de datos relacionales SQL (depuración de tablas huérfanas de WooCommerce) y hardening estructural de seguridad a nivel de servidor.
 
 ---
 
-### 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/andrea-oyarce-espinoza/) | [Email](amoyarcee@gmail.com)
+## 📜 Certificaciones
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrea-Oyarce-Espinoza&show_icons=true&theme=rose_pine" alt="Estadísticas de Andrea" />
-</p>
+- **Bootcamp Front-End** – Duoc UC
+- **Scrum Foundation** – CertiProf
+- **SEO Academy** – Semrush
+- **JavaScript Expert** – Udemy
+
+## 📬 Conectemos
+- **Email:** [amoyarcee@gmail.com](mailto:amoyarcee@gmail.com)
+- **GitHub:** [github.com/Andrea-Oyarce-Espinoza](https://github.com/Andrea-Oyarce-Espinoza/)
+- **Ubicación:** Santiago, Chile (Disponible para desafíos remotos o híbridos)
