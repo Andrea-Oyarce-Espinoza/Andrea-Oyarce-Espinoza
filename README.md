@@ -195,7 +195,7 @@ The goal is to build practical projects with each technology before adding them 
 ## 🤝 Let's Connect
 
 📧 **Email:** amoyarcee@gmail.com  
-💼 **LinkedIn:** [Andrea Oyarce](TU_LINK_LINKEDIN)  
+💼 **LinkedIn:** [Andrea Oyarce](https://www.linkedin.com/in/andrea-oyarce-espinoza/)  
 💻 **GitHub:** [Andrea-Oyarce-Espinoza](https://github.com/Andrea-Oyarce-Espinoza)
 
 ---
