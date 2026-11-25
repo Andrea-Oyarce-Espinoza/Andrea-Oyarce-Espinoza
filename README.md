@@ -17,6 +17,7 @@ I enjoy turning real business needs into practical software — from designing t
 
 ### Frontend
 - JavaScript (ES6+)
+- TypeScript
 - React
 - Next.js
 - HTML5 / CSS3
@@ -50,11 +51,12 @@ I enjoy turning real business needs into practical software — from designing t
 ### Cloud & Deployment
 - Vercel
 - Render
-- Cloudflare
+- Cloudflare / Cloudflare R2
 - Git / GitHub
 - DNS Management
 
 ### CMS & eCommerce
+- Sanity CMS
 - WordPress
 - WooCommerce
 - Elementor Pro
@@ -69,87 +71,35 @@ I enjoy turning real business needs into practical software — from designing t
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Client Work
 
-## 🎓 Francia Academy
+### [franciavarubin.cl](https://www.franciavarubin.cl/) — Online Learning Platform
 
-**Full-Stack Learning Platform**
+Full-stack development for an independent client. Built responsive course and lesson workflows, role-based access, and protected admin routes. Designed PostgreSQL data models and Supabase Row Level Security policies, and integrated Cloudflare R2 for protected video delivery.
 
-A responsive learning platform developed for an independent client to manage courses, lessons, users and protected educational content.
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Cloudflare R2` `Vercel`
 
-### Key work
+### [El Baúl de Pepitas](https://baul-pepitas-catalogo.vercel.app/) — Point of Sale and Inventory
 
-- Authentication and role-based access.
-- Protected administration routes.
-- Course and lesson CRUD workflows.
-- PostgreSQL database design.
-- Row Level Security policies with Supabase.
-- Media storage architecture for large video files.
-- Responsive experience for desktop and mobile.
-- Technical documentation and Git-based version control.
+Full-stack development for a retail business since October 2026. Built a system that connects the point of sale, central inventory, and public catalog. Implemented sales by unit and weight, automatic stock deductions, and checks for stock availability and expired products.
 
-**Stack:**  
-`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Cloudflare`
+**Stack:** `JavaScript` `HTML5` `CSS3` `Node.js` `Supabase Auth` `PostgreSQL` `Vercel`
 
 ---
 
-## 🥕 Nutribebé
+## 🚀 Featured Projects
 
-**Full-Stack Web Application**
+### [Tidy Studio](https://tidy-studio.vercel.app/) — Portfolio and Blog
 
-Application designed to generate personalized meal plans and shopping lists for babies and young children.
+Built a portfolio site and a [blog](https://tidy-studio.vercel.app/blog) with a Sanity editorial panel for writing articles, saving drafts, and publishing.
 
-### Key features
+**Stack:** `Next.js` `React` `TypeScript` `Sanity CMS` `Vercel`
 
-- Personalized weekly meal generation.
-- Allergy and dietary restriction filtering.
-- Meal categories and ingredient management.
-- Pantry-based calculations.
-- Budget-oriented shopping calculations.
-- RESTful client-server architecture.
+### [Tidy Seeds](https://tidy-studio.vercel.app/seeds) — Educational Resources
 
-**Stack:**  
-`JavaScript` `Node.js` `Express.js` `MongoDB Atlas` `REST API` `Vercel` `Render`
+Built the educational section of Tidy Studio for families and educators, including the [2026 Advent Calendar](https://tidy-studio.vercel.app/seeds/calendarios/adviento-2026) with 24 screen-free activities and printable worksheets.
 
----
-
-## 📦 StockFlow
-
-**Full-Stack Inventory Management Project**
-
-Inventory management application designed to strengthen and demonstrate backend architecture and API development.
-
-### Architecture
-
-- Users
-- Categories
-- Products
-- Inventory movements
-- Authentication and authorization
-- REST API architecture
-
-**Stack:**  
-`Java 21` `Spring Boot` `PostgreSQL` `REST API`
-
-🚧 Currently under development.
-
----
-
-## 🎡 Ruleta Ideas
-
-**Mobile Application**
-
-Mobile application developed with Flutter using a modular, feature-oriented architecture.
-
-### Technical focus
-
-- Feature-First Architecture
-- Reusable widgets
-- Separation of concerns
-- Custom UI rendering with CustomPainter
-
-**Stack:**  
-`Flutter` `Dart` `CustomPainter`
+**Stack:** `Next.js` `React` `TypeScript` `CSS Modules` `Vercel`
 
 ---
 
